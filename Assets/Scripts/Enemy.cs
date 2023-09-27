@@ -16,7 +16,11 @@ public class Enemy : MonoBehaviour
     {
         Vector3 direction = target.position - transform.position; //direction vector
         transform.Translate(direction.normalized * speed * Time.deltaTime, Space.World); //normalized to make sure it has a fixed speed, moving at a set speed not by framerate
-        
+
+
+        Quaternion rotation = Quaternion.LookRotation(direction); //source: https://www.youtube.com/watch?v=nJiFitClnKo
+        transform.rotation = rotation;
+
         if(Vector3.Distance(transform.position, target.position) < 0.2f) //checking to see if we are close to waypoint if so get the next waypoint
         {
             GetNextWaypoint();
