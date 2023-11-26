@@ -4,12 +4,21 @@ using UnityEngine;
 public class Turret : MonoBehaviour
 {
     private Transform target;
+
+    [Header("Attributes")]
+
     public float range = 15f;
+    public float fireRate = 1f;
+    private float fireCountdown = 0f;
+
+    [Header("Unity Setup Fields")]
 
     public string enemyTag = "Enemy";
-
     public Transform partToRotate;
     public float turnSpeed = 10f;
+
+    public GameObject bulletPrefab;
+    public Transform firePoint;
 
     // Start is called before the first frame update
     void Start()
@@ -60,7 +69,26 @@ public class Turret : MonoBehaviour
         Vector3 rotation = Quaternion.Lerp(partToRotate.rotation, lookRotation, Time.deltaTime * turnSpeed).eulerAngles; //we only want to rotate on y-axis so we need to convert to euler angles, need lerp so that it doesnt insta snap to target
         partToRotate.rotation = Quaternion.Euler(0f, rotation.y, 0f); //rotating turret to face target
 
+        if(fireCountdown <= 0) //if its time to fire
+        {
+            Fire();
+            fireCountdown = 1f / fireRate; 
+        }
 
+        fireCountdown -= Time.deltaTime; // every second fire countdown will be reduced by 1
+
+
+    }
+
+    void Fire()
+    {
+        GameObject bulletObj = (GameObject)Instantiate(bulletPrefab, firePoint.position, firePoint.rotation); //teporarily store bullet into bulletObj, we cast the instantiated bullet to a game object to be stored
+        Bullet bullet = bulletObj.GetComponent<Bullet>();
+
+        if(bullet != null) //as long as the bullet object exist
+        {
+            bullet.HitTarget(target); //bullet will go hit the target the turret locked onto
+        }
     }
 
     void OnDrawGizmosSelected() //drawing range of turret when turret is selected
