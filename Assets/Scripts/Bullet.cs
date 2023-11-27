@@ -39,6 +39,7 @@ public class Bullet : MonoBehaviour
     void TargetWasHit()
     {
         GameObject effectIns = (GameObject)Instantiate(impactEffect, transform.position, transform.rotation);
+        PlayerStats.Money += 50;
         Destroy(effectIns, 2f);
         Destroy(target.gameObject);
         Destroy(gameObject);

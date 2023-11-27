@@ -6,6 +6,7 @@ public class BuildManager : MonoBehaviour
 {
     [Header("Build Manager Singleton Settings")]
     public static BuildManager instance; //single instance of build manager
+    private bool selected = false;
 
     void Awake()
     {
@@ -19,18 +20,44 @@ public class BuildManager : MonoBehaviour
     }
 
     [Header("Tower Building Settings")]
-    private GameObject towerToBuild;
+    private TowerBlueprint towerToBuild;
 
     [Header("Tower Prefabs")]
     public GameObject machineGunTurretPrefab;
 
-    void Start()
+    
+
+    public bool CanBuild { get { return towerToBuild != null; } } //property
+
+    public void BuildTowerOn(Node node)
     {
-        towerToBuild = machineGunTurretPrefab;
+       if(PlayerStats.Money < towerToBuild.cost)
+        {
+            return;
+        }
+
+       PlayerStats.Money -= towerToBuild.cost;
+       GameObject tower =(GameObject)Instantiate(towerToBuild.prefab, node.GetBuildPosition(), Quaternion.identity);
+       node.tower = tower;
     }
 
-    public GameObject GetTowerToBuild()
+    public void SelectTowerToBuild(TowerBlueprint tower)
     {
-        return towerToBuild;
+        if (selected == false)
+        {
+            towerToBuild = tower;
+            selected = true;
+        }
+        else
+        {
+            towerToBuild = null;
+            selected = false;
+        }
     }
+
+    public void UnselectTowerToBuild(TowerBlueprint tower)
+    {
+        towerToBuild = null;
+    }
+
 }

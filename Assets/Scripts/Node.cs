@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class Node : MonoBehaviour
 {
@@ -11,32 +12,59 @@ public class Node : MonoBehaviour
     private Renderer rend;
 
     [Header("Turret Place Setup")]
-    private GameObject turret;
     public Vector3 positionOffset;
+    [Header("Optional Setup")]
+    public GameObject tower;
+
+    BuildManager buildManager;
 
     void Start()
     {
         rend = GetComponent<Renderer>();
         startColor = rend.material.color;
+
+        buildManager = BuildManager.instance;
+    }
+
+    public Vector3 GetBuildPosition()
+    {
+        return transform.position + positionOffset;
     }
 
     void OnMouseDown()
     {
-       if(turret != null) //if we have already built something here
+        if (EventSystem.current.IsPointerOverGameObject())
+        {
+            return;
+        }
+
+        if (!buildManager.CanBuild)
+        {
+            return;
+        }
+
+       if(tower != null) //if we have already built something here
         {
             Debug.Log("This land ain't big enough for the two of us!!");
             //put a open canvas thing for maybe an uogrades menu where you can sell
             return;
         }
 
-        //building a tower
-        GameObject towerToBuild = BuildManager.instance.GetTowerToBuild();
-        turret = (GameObject)Instantiate(towerToBuild, transform.position + positionOffset, transform.rotation);
+        buildManager.BuildTowerOn(this);
 
     }
 
     void OnMouseEnter()
     {
+        if (EventSystem.current.IsPointerOverGameObject())
+        {
+            return;
+        }
+
+        if (!buildManager.CanBuild)
+        {
+            return;
+        }
         rend.material.color = hoverOverColor;
     }
 
