@@ -140,7 +140,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &20935195 stripped
@@ -160,7 +161,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &27208557 stripped
@@ -180,7 +182,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &45461232 stripped
@@ -200,7 +203,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &55963142 stripped
@@ -220,7 +224,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &58769637
@@ -302,7 +307,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &74403159 stripped
@@ -322,7 +328,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &112078177 stripped
@@ -342,7 +349,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &128367200 stripped
@@ -362,7 +370,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &132167470 stripped
@@ -382,7 +391,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &133835056
@@ -464,7 +474,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &142068050 stripped
@@ -484,7 +495,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &150352043 stripped
@@ -504,7 +516,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &154324944 stripped
@@ -524,9 +537,106 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &189446805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 189446806}
+  - component: {fileID: 189446809}
+  - component: {fileID: 189446808}
+  - component: {fileID: 189446807}
+  m_Layer: 5
+  m_Name: price Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &189446806
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189446805}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 345522246}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: -756.26, y: -134.59}
+  m_SizeDelta: {x: 62.7383, y: 25.67}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &189446807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189446805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 1.87, y: -3.08}
+  m_UseGraphicAlpha: 1
+--- !u!114 &189446808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189446805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 21
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 45
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: $100
+--- !u!222 &189446809
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189446805}
+  m_CullTransparentMesh: 1
 --- !u!1 &201231378 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1467917732146092440, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -544,7 +654,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &206074597 stripped
@@ -564,7 +675,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &208743478
@@ -681,7 +793,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &241327075 stripped
@@ -701,7 +814,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &245833854
@@ -783,7 +897,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &288083685 stripped
@@ -803,7 +918,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &290115548 stripped
@@ -823,7 +939,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &310459030 stripped
@@ -843,7 +960,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &315847879
@@ -925,7 +1043,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &331049105 stripped
@@ -945,7 +1064,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &340108903 stripped
@@ -965,9 +1085,49 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &345522245
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 345522246}
+  m_Layer: 5
+  m_Name: Turret
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &345522246
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 345522245}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1755817860}
+  - {fileID: 494125752}
+  - {fileID: 189446806}
+  m_Father: {fileID: 838407733}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &350922859 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8910691434761741993, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -985,7 +1145,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &367549848 stripped
@@ -1005,7 +1166,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &408328196 stripped
@@ -1025,9 +1187,106 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &411225224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 411225225}
+  - component: {fileID: 411225228}
+  - component: {fileID: 411225227}
+  - component: {fileID: 411225226}
+  m_Layer: 5
+  m_Name: Wave Number Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &411225225
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411225224}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 581998278}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -165, y: 171}
+  m_SizeDelta: {x: 483.39, y: 85.877}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &411225226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411225224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 2.8, y: -3.05}
+  m_UseGraphicAlpha: 1
+--- !u!114 &411225227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411225224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 71
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 4
+    m_MaxSize: 92
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Wave Number
+--- !u!222 &411225228
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411225224}
+  m_CullTransparentMesh: 1
 --- !u!1 &419202691 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5913987771963214649, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -1045,7 +1304,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &420756157 stripped
@@ -1065,7 +1325,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &432041420 stripped
@@ -1085,7 +1346,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &434144218 stripped
@@ -1105,7 +1367,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &455209466 stripped
@@ -1125,7 +1388,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &473981214 stripped
@@ -1145,7 +1409,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &482635683 stripped
@@ -1165,7 +1430,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &493572280 stripped
@@ -1185,9 +1451,106 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &494125751
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 494125752}
+  - component: {fileID: 494125755}
+  - component: {fileID: 494125754}
+  - component: {fileID: 494125753}
+  m_Layer: 5
+  m_Name: Turret Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &494125752
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 494125751}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 345522246}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: -754.69, y: 34.195}
+  m_SizeDelta: {x: 65.8685, y: 24.8875}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &494125753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 494125751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 1.87, y: -3.08}
+  m_UseGraphicAlpha: 1
+--- !u!114 &494125754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 494125751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 21
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 45
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Turret
+--- !u!222 &494125755
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 494125751}
+  m_CullTransparentMesh: 1
 --- !u!1 &494143684 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6118979549385824977, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -1205,7 +1568,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &501835484 stripped
@@ -1225,7 +1589,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &511970853 stripped
@@ -1245,7 +1610,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &515871684 stripped
@@ -1265,7 +1631,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &520440856 stripped
@@ -1285,10 +1652,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
---- !u!1 &543445945
+--- !u!1 &545033205
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1296,59 +1664,73 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 543445946}
-  - component: {fileID: 543445949}
-  - component: {fileID: 543445948}
-  - component: {fileID: 543445947}
+  - component: {fileID: 545033206}
+  - component: {fileID: 545033210}
+  - component: {fileID: 545033209}
+  - component: {fileID: 545033208}
+  - component: {fileID: 545033207}
   m_Layer: 5
-  m_Name: WaveCount
+  m_Name: Life Count
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &543445946
+--- !u!224 &545033206
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 543445945}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_GameObject: {fileID: 545033205}
+  m_LocalRotation: {x: -0, y: -0.0034005172, z: -0, w: 0.9999942}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1068052080}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -67.455246}
-  m_SizeDelta: {x: 160, y: 119.4952}
+  m_Father: {fileID: 581998278}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: -0.39, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 257, y: -73}
+  m_SizeDelta: {x: 89.17, y: 85.877}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &543445947
+--- !u!114 &545033207
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 543445945}
+  m_GameObject: {fileID: 545033205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 056b70a364eb40c479e9c07b9c3c59af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  livesText: {fileID: 545033209}
+--- !u!114 &545033208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 545033205}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
-  m_EffectDistance: {x: 3, y: -1}
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 2.8, y: -3.05}
   m_UseGraphicAlpha: 1
---- !u!114 &543445948
+--- !u!114 &545033209
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 543445945}
+  m_GameObject: {fileID: 545033205}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
@@ -1364,25 +1746,25 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 70
+    m_FontSize: 71
     m_FontStyle: 1
     m_BestFit: 0
-    m_MinSize: 7
-    m_MaxSize: 116
-    m_Alignment: 4
+    m_MinSize: 4
+    m_MaxSize: 92
+    m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 0
---- !u!222 &543445949
+  m_Text: 99
+--- !u!222 &545033210
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 543445945}
+  m_GameObject: {fileID: 545033205}
   m_CullTransparentMesh: 1
 --- !u!1 &581187841 stripped
 GameObject:
@@ -1401,9 +1783,92 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &581998277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 581998278}
+  - component: {fileID: 581998280}
+  - component: {fileID: 581998279}
+  m_Layer: 5
+  m_Name: Ground Pannel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &581998278
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581998277}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 411225225}
+  - {fileID: 1543116571}
+  - {fileID: 811757902}
+  - {fileID: 1057005853}
+  - {fileID: 2016584483}
+  - {fileID: 545033206}
+  m_Father: {fileID: 1499679514}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -1.4200134, y: -487.96594}
+  m_SizeDelta: {x: -34.13, y: -1023.449}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &581998279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581998277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 7066e0747291df44fa5c2bf93bee3a6e, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &581998280
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581998277}
+  m_CullTransparentMesh: 1
 --- !u!1 &591916074
 GameObject:
   m_ObjectHideFlags: 0
@@ -1615,7 +2080,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &621734771 stripped
@@ -1635,7 +2101,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &626831771 stripped
@@ -1655,7 +2122,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &633344563
@@ -1896,7 +2364,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &665557338
@@ -1978,7 +2447,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &668672670 stripped
@@ -1998,7 +2468,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &673725445 stripped
@@ -2018,7 +2489,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &685077350 stripped
@@ -2038,7 +2510,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &690816239 stripped
@@ -2058,7 +2531,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &699844499
@@ -2269,7 +2743,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &717356694 stripped
@@ -2289,7 +2764,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &739294953 stripped
@@ -2309,7 +2785,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &750629842 stripped
@@ -2329,7 +2806,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &765442711 stripped
@@ -2349,7 +2827,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &767721506 stripped
@@ -2369,7 +2848,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &768887015 stripped
@@ -2389,7 +2869,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &797451256
@@ -2471,7 +2952,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &805051381 stripped
@@ -2491,7 +2973,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &809677356 stripped
@@ -2511,9 +2994,106 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &811757901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 811757902}
+  - component: {fileID: 811757905}
+  - component: {fileID: 811757904}
+  - component: {fileID: 811757903}
+  m_Layer: 5
+  m_Name: Money Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &811757902
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811757901}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 581998278}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -285, y: 53}
+  m_SizeDelta: {x: 245.19, y: 85.877}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &811757903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811757901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 2.8, y: -3.05}
+  m_UseGraphicAlpha: 1
+--- !u!114 &811757904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811757901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 71
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 4
+    m_MaxSize: 92
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Money
+--- !u!222 &811757905
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811757901}
+  m_CullTransparentMesh: 1
 --- !u!1 &824322409 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6913714128408093360, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -2531,7 +3111,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &826552493
@@ -2607,7 +3188,6 @@ GameObject:
   - component: {fileID: 838407733}
   - component: {fileID: 838407736}
   - component: {fileID: 838407735}
-  - component: {fileID: 838407734}
   - component: {fileID: 838407737}
   m_Layer: 5
   m_Name: Shop
@@ -2628,41 +3208,16 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1755817860}
+  - {fileID: 1323696660}
+  - {fileID: 345522246}
   m_Father: {fileID: 1068052080}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: -9.907227}
-  m_SizeDelta: {x: 0, y: 246.398}
+  m_AnchoredPosition: {x: -1.227478, y: -9.907227}
+  m_SizeDelta: {x: 115.3777, y: 246.398}
   m_Pivot: {x: 0.5, y: 0}
---- !u!114 &838407734
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 838407732}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Padding:
-    m_Left: 0
-    m_Right: 0
-    m_Top: 0
-    m_Bottom: 0
-  m_ChildAlignment: 4
-  m_Spacing: 0
-  m_ChildForceExpandWidth: 0
-  m_ChildForceExpandHeight: 0
-  m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
-  m_ChildScaleWidth: 0
-  m_ChildScaleHeight: 0
-  m_ReverseArrangement: 0
 --- !u!114 &838407735
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2676,15 +3231,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.23584908, g: 0.23584908, b: 0.23584908, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 90a2dde0942123c4ebb9c4af580c5818, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2733,7 +3288,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &851854857 stripped
@@ -2753,7 +3309,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &855191312 stripped
@@ -2773,7 +3330,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &861350976 stripped
@@ -2793,7 +3351,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &868036764 stripped
@@ -2813,7 +3372,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &899761965 stripped
@@ -2833,7 +3393,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &902370685 stripped
@@ -2853,7 +3414,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &937326350 stripped
@@ -2873,7 +3435,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 1}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &942981473 stripped
@@ -2893,7 +3456,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &949835349 stripped
@@ -2913,7 +3477,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &952443141 stripped
@@ -2933,7 +3498,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &954981989 stripped
@@ -2953,7 +3519,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &963194225
@@ -3075,7 +3642,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &999510437 stripped
@@ -3095,7 +3663,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1007196497 stripped
@@ -3115,7 +3684,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1015301877 stripped
@@ -3135,7 +3705,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1019200244 stripped
@@ -3155,7 +3726,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1026066211 stripped
@@ -3175,9 +3747,120 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &1057005852
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1057005853}
+  - component: {fileID: 1057005856}
+  - component: {fileID: 1057005855}
+  - component: {fileID: 1057005854}
+  - component: {fileID: 1057005857}
+  m_Layer: 5
+  m_Name: Money
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1057005853
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1057005852}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 581998278}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 259, y: 53}
+  m_SizeDelta: {x: 164.31, y: 85.877}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1057005854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1057005852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 2.8, y: -3.05}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1057005855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1057005852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 71
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 4
+    m_MaxSize: 92
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: $999
+--- !u!222 &1057005856
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1057005852}
+  m_CullTransparentMesh: 1
+--- !u!114 &1057005857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1057005852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97157b37c4ed6a64696ae7ffde799b2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moneyText: {fileID: 1057005855}
 --- !u!1 &1064084216 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8017598860653613187, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -3195,7 +3878,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1068052076
@@ -3290,7 +3974,6 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 543445946}
   - {fileID: 838407733}
   m_Father: {fileID: 0}
   m_RootOrder: 8
@@ -3317,7 +4000,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1105656547
@@ -3434,7 +4118,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!4 &1119631841 stripped
@@ -3521,7 +4206,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1148288918 stripped
@@ -3541,7 +4227,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1149455690 stripped
@@ -3561,7 +4248,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &1152804552
@@ -3643,7 +4331,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1163616354
@@ -3760,7 +4449,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1185380929 stripped
@@ -3780,7 +4470,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1190411089 stripped
@@ -3800,7 +4491,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1196155449 stripped
@@ -3820,7 +4512,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1211153750
@@ -3937,7 +4630,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &1238559156
@@ -4081,7 +4775,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1269737705
@@ -4198,7 +4893,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1281308078 stripped
@@ -4218,7 +4914,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1284014265 stripped
@@ -4238,7 +4935,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1296483913 stripped
@@ -4258,7 +4956,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1309397700 stripped
@@ -4278,7 +4977,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1312542133 stripped
@@ -4298,7 +4998,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1314315334 stripped
@@ -4318,9 +5019,106 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &1323696659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1323696660}
+  - component: {fileID: 1323696663}
+  - component: {fileID: 1323696662}
+  - component: {fileID: 1323696661}
+  m_Layer: 5
+  m_Name: Shop Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1323696660
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1323696659}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 838407733}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 1017.7, y: -30.407}
+  m_SizeDelta: {x: 208.4234, y: 60.8148}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1323696661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1323696659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 1.87, y: -3.08}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1323696662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1323696659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 45
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 45
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: SHOP
+--- !u!222 &1323696663
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1323696659}
+  m_CullTransparentMesh: 1
 --- !u!1 &1328485987 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1558121823568329713, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -4338,7 +5136,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &1331455763
@@ -4420,7 +5219,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1338441373 stripped
@@ -4440,7 +5240,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1346925906 stripped
@@ -4460,7 +5261,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1349809985
@@ -4577,7 +5379,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1351921128
@@ -4791,7 +5594,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1356182958 stripped
@@ -4811,7 +5615,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1370619963 stripped
@@ -4831,7 +5636,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1381960069 stripped
@@ -4851,7 +5657,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1382567759 stripped
@@ -4871,7 +5678,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1397437311
@@ -4988,7 +5796,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1426697673 stripped
@@ -5008,7 +5817,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1436687338 stripped
@@ -5028,7 +5838,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1437141947 stripped
@@ -5048,7 +5859,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1450554359 stripped
@@ -5068,7 +5880,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1453985187 stripped
@@ -5088,7 +5901,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1458998338
@@ -5205,7 +6019,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1477357852 stripped
@@ -5225,7 +6040,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1492536565 stripped
@@ -5245,7 +6061,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &1493143049
@@ -5327,9 +6144,111 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &1499679510
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1499679514}
+  - component: {fileID: 1499679513}
+  - component: {fileID: 1499679512}
+  - component: {fileID: 1499679511}
+  m_Layer: 5
+  m_Name: Ground Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1499679511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499679510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1499679512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499679510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 1
+--- !u!223 &1499679513
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499679510}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1499679514
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499679510}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 38.4179}
+  m_LocalScale: {x: 0.05, y: 0.05, z: 0.05}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 581998278}
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 102.4, y: 0}
+  m_SizeDelta: {x: 910.2779, y: 1528.1809}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1502744591 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1124118251109003198, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -5347,7 +6266,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1517174828
@@ -5516,7 +6436,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1537108902 stripped
@@ -5536,9 +6457,106 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &1543116570
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1543116571}
+  - component: {fileID: 1543116574}
+  - component: {fileID: 1543116573}
+  - component: {fileID: 1543116572}
+  m_Layer: 5
+  m_Name: WaveCount
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1543116571
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543116570}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 581998278}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 262, y: 166}
+  m_SizeDelta: {x: 121.96, y: 85.877}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1543116572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543116570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 2.8, y: -3.05}
+  m_UseGraphicAlpha: 1
+--- !u!114 &1543116573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543116570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 71
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 4
+    m_MaxSize: 92
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 999
+--- !u!222 &1543116574
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543116570}
+  m_CullTransparentMesh: 1
 --- !u!1 &1545735115 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 52073458567259062, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -5556,7 +6574,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1546633735 stripped
@@ -5576,7 +6595,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1561019151
@@ -5693,7 +6713,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1563961944 stripped
@@ -5713,7 +6734,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1569776259 stripped
@@ -5733,7 +6755,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1617200017 stripped
@@ -5753,7 +6776,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1624216410 stripped
@@ -5773,7 +6797,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1633174535 stripped
@@ -5793,7 +6818,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1653999340 stripped
@@ -5813,7 +6839,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!4 &1669101709 stripped
@@ -5838,7 +6865,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1685078766 stripped
@@ -5858,7 +6886,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1692591411 stripped
@@ -5878,7 +6907,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1693592837 stripped
@@ -5898,7 +6928,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1695344693 stripped
@@ -5918,7 +6949,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1704343669 stripped
@@ -5938,7 +6970,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1720437008 stripped
@@ -5958,7 +6991,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1727376273 stripped
@@ -5978,7 +7012,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1730044498 stripped
@@ -5998,7 +7033,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1741386390 stripped
@@ -6018,7 +7054,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1742271013
@@ -6106,7 +7143,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1755710451 stripped
@@ -6126,7 +7164,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!224 &1755817860 stripped
@@ -6151,7 +7190,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1758171098
@@ -6268,7 +7308,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1769443472
@@ -6352,7 +7393,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1788069956 stripped
@@ -6372,7 +7414,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1790017442 stripped
@@ -6392,7 +7435,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1830098142 stripped
@@ -6412,7 +7456,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1846805197 stripped
@@ -6432,7 +7477,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1856576640 stripped
@@ -6452,7 +7498,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1857193660
@@ -6631,7 +7678,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &1912147166
@@ -6713,7 +7761,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1936075168 stripped
@@ -6733,7 +7782,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1940144288 stripped
@@ -6753,7 +7803,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1942569154 stripped
@@ -6773,7 +7824,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1943724928 stripped
@@ -6793,7 +7845,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1948338783 stripped
@@ -6813,7 +7866,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1954309127
@@ -6930,7 +7984,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1961954258
@@ -7047,7 +8102,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1969351180 stripped
@@ -7067,7 +8123,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1978245526 stripped
@@ -7087,7 +8144,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1996222552 stripped
@@ -7107,7 +8165,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &1999437497 stripped
@@ -7127,7 +8186,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &2002273825 stripped
@@ -7147,9 +8207,106 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
+--- !u!1 &2016584482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2016584483}
+  - component: {fileID: 2016584486}
+  - component: {fileID: 2016584485}
+  - component: {fileID: 2016584484}
+  m_Layer: 5
+  m_Name: Lives Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2016584483
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016584482}
+  m_LocalRotation: {x: -0, y: -0.0034005172, z: -0, w: 0.9999942}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 581998278}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: -0.39, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -308.85, y: -73}
+  m_SizeDelta: {x: 197.49, y: 85.877}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2016584484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016584482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 2.8, y: -3.05}
+  m_UseGraphicAlpha: 1
+--- !u!114 &2016584485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016584482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 71
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 4
+    m_MaxSize: 92
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Lives
+--- !u!222 &2016584486
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016584482}
+  m_CullTransparentMesh: 1
 --- !u!1001 &2040927825
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7326,7 +8483,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &2066808848 stripped
@@ -7346,7 +8504,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &2069302062 stripped
@@ -7366,7 +8525,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &2072798746
@@ -7483,7 +8643,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &2084868137 stripped
@@ -7503,7 +8664,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &2085074551 stripped
@@ -7523,7 +8685,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &2101516787 stripped
@@ -7543,7 +8706,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &2106595928
@@ -7620,6 +8784,7 @@ GameObject:
   - component: {fileID: 2116980464}
   - component: {fileID: 2116980466}
   - component: {fileID: 2116980467}
+  - component: {fileID: 2116980468}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -7641,8 +8806,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HumveePrefab: {fileID: 4343716186047946023, guid: 5edd0c0331f2f6f4c8b99fea91452301, type: 3}
   spawnPoint: {fileID: 1857193664}
-  timeBetweenWaves: 5
-  waveNumText: {fileID: 543445948}
+  timeBetweenWaves: 20
+  waveNumText: {fileID: 1543116573}
   waveNum: 0
 --- !u!4 &2116980465
 Transform:
@@ -7672,6 +8837,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   machineGunTurretPrefab: {fileID: 1465174107386460795, guid: ce5cc8ec3ada5fd429a88cb64c8238f6, type: 3}
+  buildEffect: {fileID: 7885544441321355108, guid: edaddf3e2e9a2794189dea50358a7ea4, type: 3}
 --- !u!114 &2116980467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7685,6 +8851,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startMoney: 400
+  startLives: 99
+--- !u!114 &2116980468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2116980463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83c052e7749936441bf38b6d27ce9680, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2123693812 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7752681740306239045, guid: d3c4ded274d068d46ba09a6f4d04e3c8, type: 3}
@@ -7702,7 +8881,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1 &2136739242 stripped
@@ -7722,7 +8902,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 854ee89926085024e920ec1db92e6ce6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoverOverColor: {r: 0.2688679, g: 1, b: 0.9701495, a: 0}
+  hoverOverColor: {r: 0.006026745, g: 1, b: 0, a: 1}
+  noMoneyColor: {r: 1, g: 0, b: 0, a: 1}
   positionOffset: {x: 0, y: 1.3, z: 0}
   tower: {fileID: 0}
 --- !u!1001 &3026347028932941312
@@ -8544,7 +9725,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 838407733}
+    m_TransformParent: {fileID: 345522246}
     m_Modifications:
     - target: {fileID: 5456377119663596984, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -8574,6 +9755,26 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5456377119663596985, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456377119663596985, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456377119663596985, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456377119663596985, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5456377119663596985, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
+      propertyPath: m_RaycastTarget
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -8592,7 +9793,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_AnchorMin.x
@@ -8600,15 +9801,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 202.3739
+      value: 137.3154
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 212.2811
+      value: 143.5049
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8628,23 +9829,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: -754.6888
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -50.00099
       objectReference: {fileID: 0}
     - target: {fileID: 5456377119663596986, guid: 2b1ab70320455b046b932ea9db443704, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

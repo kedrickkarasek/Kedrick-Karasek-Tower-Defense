@@ -4,12 +4,30 @@ public class Enemy : MonoBehaviour
 {
     public float speed = 10f; //setting speed
 
+    public int health = 100;
+
     private Transform target;
     private int wavepointIndex = 0; //current waypoint index we are trying to reach
 
     private void Start()
     {
         target = Waypoints.points[0]; //setting target to first point
+    }
+
+    public void TakeDamage(int amount)
+    {
+        health -= amount;
+
+        if(health <= 0)
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        PlayerStats.Money += 50;
+        Destroy(gameObject);
     }
 
     private void Update() //every frame we want to move a little closer to the waypoint
@@ -31,12 +49,18 @@ public class Enemy : MonoBehaviour
     {
         if(wavepointIndex >= Waypoints.points.Length - 1) //if the enemy reaches the end destory game object 
         {
-            Destroy(gameObject);
+            ReachedEnd();
             return;
         }
 
         wavepointIndex++;
         target = Waypoints.points[wavepointIndex];
+    }
+
+    void ReachedEnd()
+    {
+        PlayerStats.Lives--;
+        Destroy(gameObject);
     }
 
 }

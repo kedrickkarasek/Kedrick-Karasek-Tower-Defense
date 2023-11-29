@@ -8,6 +8,7 @@ public class Node : MonoBehaviour
 {
     [Header("Highlight Color Setup")]
     public Color hoverOverColor;
+    public Color noMoneyColor;
     private Color startColor;
     private Renderer rend;
 
@@ -65,7 +66,15 @@ public class Node : MonoBehaviour
         {
             return;
         }
-        rend.material.color = hoverOverColor;
+
+        if (buildManager.HasMoney)
+        {
+            rend.material.color = hoverOverColor;
+        }
+        else
+        {
+            rend.material.color = noMoneyColor;
+        }
     }
 
     void OnMouseExit()

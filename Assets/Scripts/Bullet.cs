@@ -9,6 +9,8 @@ public class Bullet : MonoBehaviour
     public float speed = 70;
     public GameObject impactEffect;
 
+    public int damage = 10;
+
     public void HitTarget(Transform _target) //function that will lock the bullet onto target
     {
         target = _target;
@@ -28,7 +30,7 @@ public class Bullet : MonoBehaviour
 
         if(direction.magnitude <= distanceThisFrame) //check if the length of the direction vector is less than or equal to distance we move this frame then we hit something
         {
-            TargetWasHit();
+            Damage(target);
             return;
         }
 
@@ -36,12 +38,14 @@ public class Bullet : MonoBehaviour
 
     }
 
-    void TargetWasHit()
+    void Damage(Transform _target)
     {
-        GameObject effectIns = (GameObject)Instantiate(impactEffect, transform.position, transform.rotation);
-        PlayerStats.Money += 50;
-        Destroy(effectIns, 2f);
-        Destroy(target.gameObject);
-        Destroy(gameObject);
+        Enemy e = _target.GetComponent<Enemy>();
+        if (e != null)
+        {
+            e.TakeDamage(damage);
+            GameObject effectIns = (GameObject)Instantiate(impactEffect, transform.position, transform.rotation);
+            Destroy(effectIns, 2f);
+        }
     }
 }

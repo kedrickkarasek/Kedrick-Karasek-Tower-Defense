@@ -25,20 +25,27 @@ public class BuildManager : MonoBehaviour
     [Header("Tower Prefabs")]
     public GameObject machineGunTurretPrefab;
 
-    
+    [Header("Build Particle Effect")]
+    public GameObject buildEffect;
+
+
 
     public bool CanBuild { get { return towerToBuild != null; } } //property
+    public bool HasMoney { get { return PlayerStats.Money >= towerToBuild.cost; } } //property
 
     public void BuildTowerOn(Node node)
     {
-       if(PlayerStats.Money < towerToBuild.cost)
+       if(PlayerStats.Money < towerToBuild.cost) //if player doesnt have enough money
         {
             return;
         }
 
-       PlayerStats.Money -= towerToBuild.cost;
-       GameObject tower =(GameObject)Instantiate(towerToBuild.prefab, node.GetBuildPosition(), Quaternion.identity);
-       node.tower = tower;
+       PlayerStats.Money -= towerToBuild.cost; //subtract how much the tower cost from total money
+       GameObject tower =(GameObject)Instantiate(towerToBuild.prefab, node.GetBuildPosition(), Quaternion.identity); //instantate tower
+       node.tower = tower; // play on the node
+
+        GameObject effect = (GameObject)Instantiate(buildEffect, node.GetBuildPosition(), Quaternion.identity);
+        Destroy(effect, 5f);
     }
 
     public void SelectTowerToBuild(TowerBlueprint tower)
