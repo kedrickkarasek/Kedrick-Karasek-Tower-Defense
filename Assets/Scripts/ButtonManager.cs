@@ -46,6 +46,6 @@ public class ButtonManager : MonoBehaviour
 
     public void OpenLink()
     {
-        Application.OpenURL("https://docs.google.com/document/d/1AmSv2MEYbSw8hirDPAf8Fpy4McQo2SdHzSHQ8dyGtZQ/edit?usp=sharing");
+        Application.OpenURL("https://docs.google.com/document/d/1-qnVpncFqTvaXasqYXWttOBqJSoGeEFHXES-ETXO2K4/edit?usp=sharing");
     }
 }
